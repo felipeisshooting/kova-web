@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KOVA Estudio Creativo</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #0a0a0a;
+      color: white;
+      text-align: center;
+    }
+    h1 {
+      font-size: 3rem;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+    }
+  </style>
+</head>
+<body>
+  <h1>KOVA</h1>
+  <p>Estudio creativo audiovisual. Sitio en construcción, pero ya estamos contando historias.</p>
+</body>
+</html>
